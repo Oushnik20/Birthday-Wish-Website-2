@@ -73,7 +73,7 @@ p {
 }
 
 /* Full height pages */
-#index, #page2, #page3, #page4 {
+#page1, #page2, #page3, #page4 {
   width: 100%;
   min-height: 100vh;
   padding: 80px 20px;
@@ -86,7 +86,7 @@ p {
 }
 
 /* Soft background gradients per page */
-#index {
+#page1 {
   background: linear-gradient(135deg, #ffd1dc, #ff99b3);
 }
 #page2 {
